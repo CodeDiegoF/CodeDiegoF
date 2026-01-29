@@ -1,16 +1,13 @@
-## Hi there 👋
-
-<!--
-**CodeDiegoF/CodeDiegoF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<table align="center">
+  <tr>
+    <td align="center" style="padding:16px; border:1px solid #30363d; border-radius:16px;">
+      <a href="https://github.com/CodeDiegoF/Juego_Robot">
+        <img 
+          src="https://raw.githubusercontent.com/CodeDiegoF/Juego_Robot/main/robotMatriz/robot.png" 
+          width="220";"
+        />
+      </a>
+      <strong><h1>Robot C++</h1</strong><br>
+    </td>
+  </tr>
+</table>
