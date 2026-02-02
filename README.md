@@ -1,5 +1,4 @@
-# 💫 About Me:
-To me, a blank terminal isn't empty—it's a canvas. Syntax isn't just rules—it's poetry. Every bug I squash feels like solving a puzzle the universe whispered just for me. I don't just write code; I build digital worlds where logic dances with creativity. Coffee fuels my body, but that moment when the compiler finally says "success"? That fuels my soul.  <br>Let's turn ideas into elegant algorithms—one commit at a time. ✨
+# 💫 "If you win, you live<br>If you lose, you die<br>If you don't figth you can't win"<br>Eren Yeager ✨
 
 
 # 💻 Tech Stack:
