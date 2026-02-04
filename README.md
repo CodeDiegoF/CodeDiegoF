@@ -13,6 +13,7 @@
 <div align="right">
   <img src = "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTR3azJ2bGxnb3AxdWk2cTN0Y3pzdWRieDFxb2YweDd0eW1xbWRpNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kCpg2FYkENfnuvXSsS/giphy.gif"/>
 </div>
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
