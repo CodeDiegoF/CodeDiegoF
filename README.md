@@ -9,15 +9,16 @@
 ![](https://github-readme-stats.vercel.app/api?username=CodeDiegoF&theme=nightowl&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=CodeDiegoF&theme=nightowl&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeDiegoF&theme=nightowl&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
 <div align="right">
   <img src = "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTR3azJ2bGxnb3AxdWk2cTN0Y3pzdWRieDFxb2YweDd0eW1xbWRpNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kCpg2FYkENfnuvXSsS/giphy.gif"/>
 </div>
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=CodeDiegoF&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=CodeDiegoF&theme=radical&no-frame=false&no-bg=true&margin-w=4)
