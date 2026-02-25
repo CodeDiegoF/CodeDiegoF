@@ -30,18 +30,33 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
-<table align="center">
-  <tr>
-    <td align="center" style="padding:16px; border:1px solid #30363d; border-radius:16px;">
-      <a href="https://github.com/CodeDiegoF/Juego_Robot">
-        <img 
-          src="https://raw.githubusercontent.com/CodeDiegoF/Juego_Robot/main/robotMatriz/robot.png" 
-          width="220";"
-        />
-      </a>
-      <strong><h1>Robot C++</h1</strong><br>
-    </td>
-  </tr>
+# Proyect
+<table width="100%" align="center" cellpadding="0" cellspacing="0">
+<tr>
+  <td width="50%" align="center" valign="top">
+
+<br>
+
+### Robot C++
+
+<a href="https://github.com/CodeDiegoF/Juego_Robot">
+  <img src="https://raw.githubusercontent.com/CodeDiegoF/Juego_Robot/main/robotMatriz/robot (2).png" width="200" alt="Robot C++"/>
+</a>
+
+<br>
+
+![Status](https://img.shields.io/badge/Estado-En%20Proceso-orange?style=for-the-badge&logo=github)
+![Language](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+**Juego desarrollado en C++ con navegación matricial.**  
+Un robot que recorre un mapa mediante estructuras de datos y lógica de movimiento.
+
+[![Ver Repositorio](https://img.shields.io/badge/Ver%20Repositorio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CodeDiegoF/Juego_Robot)
+
+<br>
+
+  </td>
+<br>
 </table>
 
 
