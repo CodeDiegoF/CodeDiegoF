@@ -34,7 +34,6 @@
 <table width="100%" align="center" cellpadding="0" cellspacing="0">
 <tr>
   <td width="50%" align="center" valign="top">
-
 <br>
 
 ### Robot C++
@@ -55,7 +54,27 @@ Un robot que recorre un mapa mediante estructuras de datos y lógica de movimien
 
 <br>
 
-  </td>
+ <td width="50%" align="center" valign="top">
+### PomeBall
+<br>
+
+<a href="https://github.com/LyPaw/PomeBall">
+  <img src="https://raw.githubusercontent.com/LyPaw/PomeBall/c13c51cd3aeaf14532de870d9f5d73f719275566/docs/spriteV/pokebola.png" width="200" alt="PomeBall"/>
+</a>
+
+<br>
+<br>
+
+![Status](https://img.shields.io/badge/Estado-En%20Proceso-orange?style=for-the-badge&logo=github)
+
+
+[![Ver Repositorio](https://img.shields.io/badge/Ver%20Repositorio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LyPaw/PomeBall)
+
+<br>
+</td>
+
+<br>
+</tr>
 <br>
 </table>
 
