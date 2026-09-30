@@ -36,11 +36,6 @@
   <td width="50%" align="center" valign="top">
 <br>
 
-### Robot C++
-
-<a href="https://github.com/CodeDiegoF/Juego_Robot">
-  <img src="https://raw.githubusercontent.com/CodeDiegoF/Juego_Robot/main/robotMatriz/robot (2).png" width="200" alt="Robot C++"/>
-</a>
 
 <br>
 
