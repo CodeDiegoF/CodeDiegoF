@@ -53,13 +53,11 @@ Un robot que recorre un mapa mediante estructuras de datos y lógica de movimien
 ### PomeBall
 <br>
 
-<details>
-  <summary><strong>Ver PomeBall</strong> (Haz clic para desplegar)</summary>
-  <br>
-  <a href="https://github.com/LyPaw/PomeBall">
-    <img src="https://raw.githubusercontent.com/LyPaw/PomeBall/c13c51cd3aeaf14532de870d9f5d73f719275566/docs/spriteV/pokebola.png" width="200" alt="PomeBall"/>
-  </a>
-</details>
+<a href="https://github.com/LyPaw/PomeBall">
+  <img src="https://raw.githubusercontent.com/LyPaw/PomeBall/c13c51cd3aeaf14532de870d9f5d73f719275566/docs/spriteV/pokebola.png" width="200" alt="PomeBall"/>
+</a>
+<br>
+<img src="https://img.shields.io/badge/Estado-COMPLETADO-blue?style=for-the-badge" alt="Estado: Completado">
 
 <br>
 <br>
